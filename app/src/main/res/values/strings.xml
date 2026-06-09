@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Language Translator</string>
+
+    <!-- Labels -->
+    <string name="label_input_text">Enter Text</string>
+    <string name="label_from">From</string>
+    <string name="label_to">To</string>
+    <string name="label_translation">Translation</string>
+
+    <!-- Hints -->
+    <string name="hint_enter_text">Type or paste text here…</string>
+
+    <!-- Buttons -->
+    <string name="translate">Translate</string>
+    <string name="translating">Translating…</string>
+    <string name="clear">Clear</string>
+    <string name="copy">Copy</string>
+    <string name="listen">Listen</string>
+    <string name="delete">Delete</string>
+
+    <!-- Menus -->
+    <string name="menu_history">Translation History</string>
+    <string name="menu_dark_mode">Toggle Dark Mode</string>
+    <string name="menu_clear_all">Clear All</string>
+
+    <!-- History screen -->
+    <string name="title_history">Translation History</string>
+    <string name="empty_history_title">No translations yet</string>
+    <string name="empty_history_subtitle">Translations you make will appear here</string>
+
+    <!-- Character count -->
+    <string name="char_count_default">0 characters</string>
+    <string name="char_count_format">%d characters</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_clear_title">Clear History</string>
+    <string name="dialog_clear_message">Are you sure you want to delete all translation history? This cannot be undone.</string>
+    <string name="dialog_clear_confirm">Clear All</string>
+
+    <!-- Content descriptions (accessibility) -->
+    <string name="cd_swap_languages">Swap languages</string>
+    <string name="cd_copy">Copy translation</string>
+    <string name="cd_tts">Speak translation</string>
+</resources>
